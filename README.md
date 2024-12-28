@@ -1,7 +1,6 @@
 Project Pemrograman Berorientasi Objek
 
-Kelompok 11 
-   SISTEM MANAJEMEN TRANSPORTASI
+Kelompok 11 "SISTEM MANAJEMEN TRANSPORTASI"
 
 Anggota :
 1. Muhamad Gilang Alfajar Akbar - 2000018221
