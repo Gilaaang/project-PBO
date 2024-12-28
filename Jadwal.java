@@ -8,7 +8,7 @@ public class Jadwal {
     public String getNamaRute() {
         return JamKeberangkatan;
     }
-    public String toString(){return JamKeberangkatan;}
+    public String toString(){return JamKeberangkatan;} // bawaan dari kelas Object, sehingga ketika objek Jadwal dicetak, yang ditampilkan adalah nilai JamKeberangkatan.
 
     public String getJamKeberangkatan() {
         return JamKeberangkatan;
